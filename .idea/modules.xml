@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.JavaBuildingBlocks/1.JavaBuildingBlocks.iml" filepath="$PROJECT_DIR$/1.JavaBuildingBlocks/1.JavaBuildingBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.OperatorsAndStatements/2.OperatorsAndStatements.iml" filepath="$PROJECT_DIR$/2.OperatorsAndStatements/2.OperatorsAndStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.CoreJavaAPIs/3.CoreJavaAPIs.iml" filepath="$PROJECT_DIR$/3.CoreJavaAPIs/3.CoreJavaAPIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.MethodsAndEncapsulation/4.MethodsAndEncapsulation.iml" filepath="$PROJECT_DIR$/4.MethodsAndEncapsulation/4.MethodsAndEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.ClassDesign/5.ClassDesign.iml" filepath="$PROJECT_DIR$/5.ClassDesign/5.ClassDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Exceptions/6.Exceptions.iml" filepath="$PROJECT_DIR$/6.Exceptions/6.Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaJunior.iml" filepath="$PROJECT_DIR$/JavaJunior.iml" />
+    </modules>
+  </component>
+</project>
