@@ -25,7 +25,7 @@ RestaurantInterface ( интерфейс, реализующий порядок 
 	payATip() (оставить чаевые)
 CafeInterface (интерфейс, реализующий порядок действий в кафе быстрого питания)
 	методы (все методы будут void):
-	viewTheAssortement() (выбрать из ассортимента)
+	viewTheAssortment() (выбрать из ассортимента)
 	payAtTheCashRegister() (оплатить заказ на кассе)
 
 Интерфейсы Restaurant и Cafe наследуются от интерфейса Catering
