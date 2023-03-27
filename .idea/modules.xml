@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1.Строительные блоки Java/1.Строительные блоки Java.iml" filepath="$PROJECT_DIR$/1.Строительные блоки Java/1.Строительные блоки Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2.Операторы Java/2.Операторы Java.iml" filepath="$PROJECT_DIR$/2.Операторы Java/2.Операторы Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3.Базовый Java API/3.Базовый Java API.iml" filepath="$PROJECT_DIR$/3.Базовый Java API/3.Базовый Java API.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4.Методы и инкапсуляция/4.Методы и инкапсуляция.iml" filepath="$PROJECT_DIR$/4.Методы и инкапсуляция/4.Методы и инкапсуляция.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5.Конструирование классов/5.Конструирование классов.iml" filepath="$PROJECT_DIR$/5.Конструирование классов/5.Конструирование классов.iml" />
-      <module fileurl="file://$PROJECT_DIR$/6.Исключения/6.Исключения.iml" filepath="$PROJECT_DIR$/6.Исключения/6.Исключения.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Building blocks/1. Building blocks.iml" filepath="$PROJECT_DIR$/1. Building blocks/1. Building blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Java operators/2. Java operators.iml" filepath="$PROJECT_DIR$/2. Java operators/2. Java operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Basic Java API/3. Basic Java API.iml" filepath="$PROJECT_DIR$/3. Basic Java API/3. Basic Java API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Methods and encapsulation/4. Methods and encapsulation.iml" filepath="$PROJECT_DIR$/4. Methods and encapsulation/4. Methods and encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Class construction/5. Class construction.iml" filepath="$PROJECT_DIR$/5. Class construction/5. Class construction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Exeptions/6. Exeptions.iml" filepath="$PROJECT_DIR$/6. Exeptions/6. Exeptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaJunior.iml" filepath="$PROJECT_DIR$/JavaJunior.iml" />
     </modules>
   </component>
